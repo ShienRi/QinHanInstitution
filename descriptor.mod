@@ -1,0 +1,9 @@
+version="0.0.1"
+tags=
+{
+	"Gameplay"
+	"Culture"
+	"Decisions"
+}
+name="中华官制"
+supported_version="1.5.0.1"
